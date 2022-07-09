@@ -21,7 +21,7 @@ $ cd sensorPbl3Android
 # Rode o comando make na raspberry pi
 $ make run
 ```
-
+```bash
 ### Rodando o cliente Android
 
 # Acesse a pasta do projeto no android studio
@@ -31,4 +31,4 @@ $ sensorPbl3Android/Android
 # Build/Build Bundle(s)
 
 # Um arquivo APK será gerado e você pode executa-lo em qualquer celular android
-
+```
