@@ -21,9 +21,9 @@ $ cd sensorPbl3Android
 # Rode o comando make na raspberry pi
 $ make run
 ```
-```bash
-### Rodando o cliente Android
 
+### Rodando o cliente Android
+```bash
 # Acesse a pasta do projeto no android studio
 $ sensorPbl3Android/Android
 
